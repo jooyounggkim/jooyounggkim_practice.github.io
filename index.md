@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jooyoung Kim
+title: 
 ---
 
 Hi. Under construction.
